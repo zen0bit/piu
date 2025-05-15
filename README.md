@@ -1,3 +1,5 @@
+# moved to: https://github.com/oSoWoSo/piu
+
 # piu (Platform Independant Updater)
 
 <img align="right" alt="Skunk Logo" src=".readme-assets/logo/skunk-logo.png">
